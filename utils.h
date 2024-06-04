@@ -1,0 +1,10 @@
+#ifndef UTILS_
+#define UTILS_
+
+#endif //UTILS_
+
+#ifndef UTILS_IMPLEMENTATION
+#define UTILS_IMPLEMENTATION
+
+
+#endif //UTILS_IMPLEMENTATION
